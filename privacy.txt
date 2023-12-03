@@ -1,0 +1,44 @@
+Privacy Policy 2023-11-14
+
+- This privacy policy describes how Kimera collects, uses, and protects user data. By using Kimera, you agree to the practices outlined in this policy.
+- This privacy policy may update from time to time to reflect changes in data handling practices or legal requirements. It is the user's responsibility to review it from time to time to understand the most up to date version.
+
+
+Data Collection
+
+- User's public Discord ID
+-- Used as the primary way of identifying a user and their: submitted content, currency balance, settings, pages read, and commands used.
+
+- Public guild IDs, channel IDs, and user IDs
+-- When a guild, channel, or user is given permission to read, modify, or delete a specific book, the applicable ID is stored until that permission or book is deleted.
+-- Any guild settings set will store the guild ID.
+
+- Directly submitted content including: pages, book titles/descriptions/settings, images, pseudonyms, etc
+-- Anything you directly submit or upload to the bot is stored for purposes of using the bot's expected functions.
+
+
+Data Retention
+
+- Profiles associated with Discord user IDs are retained indefinitely, unless a user explicitly requests deletion of their data.
+
+
+Personal Information
+
+- Kimera does not collect or store any personal information such as email addresses or other identifiable data.
+
+
+Data Sharing
+
+- All data is confidential and accessible only to Kimera developers. We do not share, sell, or transfer this data to anyone.
+
+
+Data Protection
+
+- All data is stored on encrypted private servers only Kimera developers have access to.
+
+
+Data Deletion
+
+- Users have the right to request the deletion of all data tied to their user ID. To do so, users can contact the admin in the support server using the account with the ID they want to be removed. In the event that the discord account no longer exists, they can request the data be deleted via any account, or via email, by providing the id of the deleted discord account to be removed. Deletion is permanent and cannot be undone.
+
+

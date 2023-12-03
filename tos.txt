@@ -1,0 +1,61 @@
+Terms of Service 2023-11-14
+
+- By using the bot you agree to these terms. Do not use the bot or services if you disagree with them.
+- These terms may be updated at any time without notice.
+- You must be at least 13 years of age to use Kimera, and have parental permission if you are a minor.
+- You must be 18+ years of age to access any of the NSFW bot commands.
+- You agree not to exploit any bugs, errors, or security vulnerabilities
+- If you have any questions, contact us through the support server for the bot, or through EMAIL.
+
+Accounts
+
+- Kimera is intended for use on the Discord platform and provided to you as-is, without warranties or guarantees of any kind, express or implied.
+- All data is tied to your Discord user id.
+- If you lose access to your Discord account, you will likewise lose access to your Kimera account and any user content submitted.
+- In the event that a Discord account no longer exists, we may delete all the data tied to that user id.
+
+
+Reading User Content
+
+- We take no liability or responsibility for any user content.
+- You understand that if you use the bot to read user-submitted stories that you may be exposed to objectionable material.
+
+
+User Content You Submit
+
+- Must not violate Discord rules.
+- Must not violate copyright or any other rights.
+- Must not be unlawful, harmful, abusive, racially or ethnically offensive, defamatory, infringing, harassing, threatening, or otherwise objectionable.
+- Must not be intended as spam.
+- Must not be intended solely as an advertisement.
+-- Including something like a donation link with your story would be okay.
+-- Posting content that exists solely to advertise a product or service would not be okay.
+
+- Must use the provided and relevant content warnings if any pages within the book contain mature content.
+
+- May be removed by us at any time without warning if it violates these terms, or for any other reason at our sole discretion.
+- We are not responsible for any data loss. It is your responsibility to regularly back up your work to an external location.
+
+
+Content Rights
+
+- Any content that you create and upload is owned by you.
+-- You represent and warrant that you have all the necessary rights to your content and that it does not infringe or violate any third party's rights by posting it.
+
+- By submitting your content, you grant us the revocable rights to host, store, display, broadcast, modify, reformat, and distribute your content through the Kimera bot or any future interface created for interacting with our services.
+-- You may revoke these rights by deleting the content you've posted.
+
+- The owner of a book sets who is allowed to read, add, modify, or delete the pages within a book.
+-- Except for moderation purposes, we will not distribute your content to anyone outside of who the book owner has allowed.
+-- If any content within a book is reported, then the entire book may be reviewed by Kimera moderators regardless of the permission settings.
+-- The content you add to someone else's book remains yours, and you may request any content you've added to be deleted at any time.
+
+- You grant us the irrevocable right to store and copy your submitted content for the purpose of backups.
+
+
+Termination
+
+- We may disable your access to our services and delete all user data immediately, without prior notice or liability, for any reason whatsoever.
+- Contact us through the support server or DM to request deletion of all user content or data.
+
+
