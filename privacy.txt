@@ -1,4 +1,4 @@
-Privacy Policy 2023-11-14
+Privacy Policy 2023-12-27
 
 - This privacy policy describes how Kimera collects, uses, and protects user data. By using Kimera, you agree to the practices outlined in this policy.
 - This privacy policy may update from time to time to reflect changes in data handling practices or legal requirements. It is the user's responsibility to review it from time to time to understand the most up to date version.
@@ -19,7 +19,7 @@ Data Collection
 
 Data Retention
 
-- Profiles associated with Discord user IDs are retained indefinitely, unless a user explicitly requests deletion of their data.
+- Profiles associated with Discord user IDs are retained for one year after last activity, until a user explicitly requests deletion of their data, or up to three years if user requests that longer duration.
 
 
 Personal Information
@@ -34,11 +34,9 @@ Data Sharing
 
 Data Protection
 
-- All data is stored on encrypted private servers only Kimera developers have access to.
+- All data is stored on private servers only Kimera developers have access to.
 
 
 Data Deletion
 
-- Users have the right to request the deletion of all data tied to their user ID. To do so, users can contact the admin in the support server using the account with the ID they want to be removed. In the event that the discord account no longer exists, they can request the data be deleted via any account, or via email, by providing the id of the deleted discord account to be removed. Deletion is permanent and cannot be undone.
-
-
+- Users have the right to request the deletion of all data tied to their user ID. To do so, they can use the /deletealluserdata command. In the event that the discord account no longer exists, they can request the data be deleted via any account, or via email, by providing the id of the deleted discord account. Deletion is permanent and cannot be undone.
